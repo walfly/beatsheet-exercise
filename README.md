@@ -18,6 +18,7 @@ To use this Docker container, you will need to have Docker installed on your sys
     ```bash
     docker compose start
     ```
+
 Alternatively, you can create and start the container by running:
 
     ```bash
