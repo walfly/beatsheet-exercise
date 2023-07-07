@@ -19,6 +19,23 @@ Following the suggestion from our interview, I focused on doing one part of the 
  4. run the development server using `npm run dev`
  5. navigate to `http://localhost:3000`
 
+## Area of focus
+The main interaction I focused on for this is illustrated in this (video)[https://www.loom.com/share/108d04cf05d84fe0a100ddef6a5ee7ce?sid=d3ce0da1-e823-4157-98c3-03ef948f574b]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 This guide provides instructions on how to run the beetsheet backend in a docker container.
 
